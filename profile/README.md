@@ -36,10 +36,7 @@ Embrace a secure digital identity. Our web/dApp services provide various authent
 Unlock the potential of your digital assets. Our services provide custodial and non-custodial solutions, supporting FT/NFT SPL Metaplex Core - self-claims and cross-chain ERC20s/BEP20s.
 
 ## Contact Us
-If you have any questions, please reach out to us at dev@czlabs.io or send a msg to us in X. (https://x.com/czlabs_io)
-
-Sincerely,  
-**Postmasters**
+If you have any questions, please reach out to us at modsiw@czlabs.io or send a msg to us in X. (https://x.com/czlabs_io)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Obsidian-4A4A4A?style=flat-square&logo=obsidian&logoColor=white">
